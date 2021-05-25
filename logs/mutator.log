@@ -1,0 +1,7 @@
+2021-05-25 17:54:33,977 [main:34] - Trying to replace Element(STRING_TEMPLATE) on Element(STRING_TEMPLATE)
+2021-05-25 17:54:34,005 [main:25] - Compilation checking started
+2021-05-25 17:54:34,320 [main:54] - Result = true
+Text:
+fun main() {
+    println("Bye bye, world!")
+}
